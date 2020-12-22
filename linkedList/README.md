@@ -1,6 +1,6 @@
 # Linked List
 
-> **Definition**: A Linked List is a data structure that is ordered. Unlike an array that contains items with an indexed position. You can think of a Linked List like a train and you have start at the beginning and move to the next one. A Linked List consist of nodes and each node has a value and a pointer to another node.
+> **Definition**: A Linked List is a data structure that is ordered. Unlike an array that contains items with an indexed position, LL do not. You can think of a Linked List like a train and you have start at the beginning and move to the next one. A Linked List consist of nodes and each node has a value and a pointer to another node.
 
 ![Linked List Diagram](https://miro.medium.com/max/970/1*f2oDQ0cdY54olxCFOIMIdQ.png)
 
